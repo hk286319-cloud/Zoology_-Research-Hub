@@ -1,6 +1,3 @@
-# Zoology_-Research-Hub
-A collection of innovative Zoology projects, biological research, animal studies, biodiversity documentation, scientific presentations, and educational resources dedicated to exploring the animal kingdom.
-
 🐾 Zoology Research Hub
 Welcome to Zoology Research Hub!
 This repository explores the fascinating world of Zoology through scientific research, academic projects, biodiversity studies, and educational resources.
